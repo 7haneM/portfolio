@@ -1,4 +1,4 @@
-# Data Portfolio
+# Thane Macdonald - Data Portfolio
 
 Welcome! This repository contains data analysis projects I have worked on. 
 
