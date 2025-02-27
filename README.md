@@ -4,7 +4,7 @@ Welcome! This repository contains data analysis projects I have worked on.
 
 Each folder represents a project, containing cleaned datasets, SQL queries and changelogs where applicable.
 
-## 🔍 Projects
+##  Projects
 
 1. **[UK Prison Safety](./project-uk-prison-safety/README.md)**
    - **Objective:** Reduce serious incidents by 10%
