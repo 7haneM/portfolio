@@ -6,7 +6,7 @@ Each folder represents a project, containing cleaned datasets, SQL queries and c
 
 ## 🔍 Projects
 
-1. **[UK Prison Safety](./prison-analysis/README.md)**
+1. **[UK Prison Safety](./project-uk-prison-safety/README.md)**
    - **Objective:** Reduce serious incidents by 10%
    - **Tech Used:** Excel
    - **Files:** Changelog, cleaned dataset, insights
