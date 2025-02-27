@@ -9,8 +9,9 @@ reduce these incidents by at least 10% over six months
 - **Excel** (Data Cleaning, Validation, Analysis & Visualizsations
 
 ### 📂 Files
+- **[High-level overview of project](./prison_incidents.xlsx)** – Final processed data used in analysis
 - **[Changelog](./changelog.txt)** – Details key changes and analysis steps
-- **[Cleaned Dataset](./prison_incidents.xlsx)** – Final processed data used in analysis
+
   
 ---
 
