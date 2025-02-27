@@ -9,7 +9,7 @@ reduce these incidents by at least 10% over six months
 - **Excel** (Data Cleaning, Validation, Analysis & Visualizsations
 
 ### 📂 Files
-- **[Changelog](./Changelog HMP Intel.txt)** – Details key changes and analysis steps
+- **[Changelog](./changelog.txt)** – Details key changes and analysis steps
 - **[Cleaned Dataset](./analysis.xlsx)** – Final processed data used in analysis
   
 ---
