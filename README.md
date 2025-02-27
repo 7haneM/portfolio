@@ -15,4 +15,4 @@ Each folder represents a project, containing cleaned datasets, SQL queries and c
 Each project folder contains the raw data, analysis process and final findings.
 
 ---
-View my **full portfolio and insights on [Notion](https://gray-diascia-2f7.notion.site/Thane-Macdonald-Data-Portfolio-19f009096b56801cbf3ce5c6d4b54608?pvs=4)**.
+View my **full portfolio and insights on [Notion](https://gray-diascia-2f7.notion.site/Thane-Macdonald-Data-Portfolio-19f009096b56801cbf3ce5c6d4b54608?pvs=4)**
