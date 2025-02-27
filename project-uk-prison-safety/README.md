@@ -14,4 +14,4 @@ reduce these incidents by at least 10% over six months
   
 ---
 
-🔗 Full project breakdown on **[Notion](https://gray-diascia-2f7.notion.site/Thane-Macdonald-Data-Portfolio-19f009096b56801cbf3ce5c6d4b54608))**
+🔗 Full project breakdown on **[Notion](https://gray-diascia-2f7.notion.site/Thane-Macdonald-Data-Portfolio-19f009096b56801cbf3ce5c6d4b54608)**
