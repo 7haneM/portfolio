@@ -1,0 +1,143 @@
+# Changelog
+
+Version 1.0.0 (2025-02-11)
+Time: 16:24
+Description: Generated synthetic incident dataset using Python (Faker library).
+Files Affected: prison_incidents.csv
+Justification: Created dataset due to unavailability of real prison incident data for confidentiality and ethical reasons.
+
+Version 1.0.1 (2025-02-12)
+Time: 09:15
+Description: Created project documentation files (changelog, data sources & preparation, project overview).
+Files Affected: changelog.txt, data_sources_and_preparation.docx, project_overview.docx
+Justification: To document project process, data sources, and project overview.
+
+Version 1.0.2 (2025-02-12)
+Time: 11:18
+Description: Created working copy of dataset (prison_incidents.xlsx) and preserved original raw data (prison_incidents_master.xlsx). Created "raw" and "cleaned" sheets.
+Files Affected: prison_incidents_master.xlsx, prison_incidents.xlsx
+Justification: To preserve raw data and create a separate workbook for cleaning.
+
+Version 1.0.3 (2025-02-12)
+Time: 11:21
+Description: Imported dataset into "cleaned" sheet using Power Query.
+Files Affected: prison_incidents.xlsx (cleaned sheet)
+Justification: To import data for cleaning and transformation.
+
+Version 1.0.4 (2025-02-12)
+Time: 11:26
+Description: Corrected data types in "cleaned" sheet ("Date" as Date, "Time" as Time, all other columns as Text). Adjusted column widths and row heights.
+Files Affected: prison_incidents.xlsx (cleaned sheet)
+Justification: To ensure accurate data types for analysis and improve readability.
+
+Version 1.0.5 (2025-02-12)
+Time: 11:32
+Description: Formatted dataset as a table. Checked for duplicates (none found).
+Files Affected: prison_incidents.xlsx (cleaned sheet)
+Justification: To enable filtering and analysis, and to ensure data uniqueness.
+
+Version 1.0.6 (2025-02-12)
+Time: 11:36
+Description: Removed unnecessary columns ("Incident ID," "Date," "Time," "Description," "Outcome/Resolution," "Reporting Officer").
+Files Affected: prison_incidents.xlsx (cleaned sheet)
+Justification: To focus analysis on relevant variables for the business objective.
+
+Version 1.0.7 (2025-02-12)
+Time: 11:38
+Description: Trimmed leading/trailing spaces from text fields using TRIM function.
+Files Affected: prison_incidents.xlsx (cleaned sheet)
+Justification: To ensure data consistency for analysis.
+
+Version 1.0.8 (2025-02-12)
+Time: 11:41
+Description: Filtered dataset for "High Severity" incidents and specific incident types ("Assault," "Disturbance," "Self-Harm").
+Files Affected: prison_incidents.xlsx (cleaned sheet)
+Justification: To focus analysis on target incidents as defined by stakeholders.
+
+Version 1.0.9 (2025-02-12)
+Time: 11:49
+Description: Standardized column names to snake_case.
+Files Affected: prison_incidents.xlsx (cleaned sheet)
+Justification: To maintain consistency and facilitate referencing.
+
+Version 1.0.10 (2025-02-12)
+Time: 11:51
+Description: Identified and documented missing values (32%) in "contributing_factors" column. Discussed with stakeholders.
+Files Affected: prison_incidents.xlsx (cleaned sheet)
+Justification: To understand the impact of missing data on analysis.
+
+Version 1.0.11 (2025-02-12)
+Time: 11:52
+Description: Created "analysis" sheet.
+Files Affected: prison_incidents.xlsx (analysis sheet)
+Justification: To perform calculations and analysis.
+
+Version 1.0.12 (2025-02-12)
+Time: 11:55
+Description: Created PivotTable to analyse incident count by location.
+Files Affected: prison_incidents.xlsx (analysis sheet)
+Justification: To identify high-risk locations.
+
+Version 1.0.13 (2025-02-12)
+Time: 12:02
+Description: Parsed "contributing_factors" column into individual factors using Text to Columns. Created PivotTable to count individual factors. Removed blank entries.
+Files Affected: prison_incidents.xlsx (analysis sheet)
+Justification: To analyse contributing factors individually.
+
+Version 1.0.14 (2025-02-12)
+Time: 12:05
+Description: Trimmed spaces from contributing factors list.
+Files Affected: prison_incidents.xlsx (analysis sheet)
+Justification: To ensure data consistency for analysis.
+
+Version 1.0.15 (2025-02-12)
+Time: 12:07
+Description: Extracted unique contributing factors using UNIQUE function.
+Files Affected: prison_incidents.xlsx (analysis sheet)
+Justification: To identify distinct contributing factors.
+
+Version 1.0.16 (2025-02-12)
+Time: 12:09
+Description: Calculated frequency of each contributing factor using COUNTIF.
+Files Affected: prison_incidents.xlsx (analysis sheet)
+Justification: To quantify the occurrence of each factor.
+
+Version 1.0.17 (2025-02-12)
+Time: 12:10
+Description: Created table of unique contributing factors and their frequencies.
+Files Affected: prison_incidents.xlsx (analysis sheet)
+Justification: To prepare data for visualisation.
+
+Version 1.0.18 (2025-02-12)
+Time: 12:12
+Description: Parsed "individuals_involved" column into individual names using Text to Columns. Created PivotTable to count individual involvements. Removed blank entries.
+Files Affected: prison_incidents.xlsx (analysis sheet)
+Justification: To analyse individual involvement in incidents.
+
+Version 1.0.19 (2025-02-12)
+Time: 12:15
+Description: Trimmed spaces from individuals involved list.
+Files Affected: prison_incidents.xlsx (analysis sheet)
+Justification: To ensure data consistency for analysis.
+
+Version 1.0.20 (2025-02-12)
+Time: 12:17
+Description: Extracted unique individuals involved using UNIQUE function.
+Files Affected: prison_incidents.xlsx (analysis sheet)
+Justification: To identify distinct individuals involved.
+
+Version 1.0.21 (2025-02-12)
+Time: 12:22
+Description: Calculated frequency of each individual's involvement using COUNTIF.
+Files Affected: prison_incidents.xlsx (analysis sheet)
+Justification: To quantify the involvement of each individual.
+
+Version 1.0.22 (2025-02-12)
+Time: 12:25
+Description: Created table of unique individuals and their involvement frequencies.
+Files Affected: prison_incidents.xlsx (analysis sheet)
+Justification: To prepare data for visualisation.
+
+Version 1.0.23 (2025-02-12)
+Time: 12:28
+Description: analysed 
