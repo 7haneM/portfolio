@@ -1,6 +1,3 @@
-# portfolio
-Data Portfolio Files
-
 # Thane's Data Portfolio
 
 Welcome! This repository contains data analysis projects I have worked on. 
