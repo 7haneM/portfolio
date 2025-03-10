@@ -6,7 +6,7 @@ assaults and self-harm to deliver recommendations and strategies in order to
 reduce these incidents by at least 10% over six months
 
 ### 📊 Tools Used
-- **Excel** (Data Cleaning, Validation, Analysis & Visualizsations
+- **Excel** (Data Cleaning, Validation, Analysis & Visualizsations)
 
 ### 📂 Files
 - **[Changelog](./changelog.txt)** – Details key changes and analysis steps
