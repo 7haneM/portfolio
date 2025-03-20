@@ -10,7 +10,6 @@ strategies to increase campaign ROI
 
 ### 📂 Files
 - **[SQL Code](./sqlcode.txt)** – Details code used in project
-- **[Changelog](./changelog.txt)** – Details key changes and analysis steps
   
 ---
 
