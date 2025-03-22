@@ -9,7 +9,7 @@ strategies to increase campaign ROI
 - **Power BI** (Visualisations, Reporting)
 
 ### 📂 Files
-- **[SQL Code](./sqlcode.txt)** – Details code used in project
+- **[SQL Code](./sqlcode.sql)** – Details code used in project
   
 ---
 
