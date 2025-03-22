@@ -16,8 +16,5 @@ Each folder represents a project, containing cleaned datasets, SQL queries and c
    - **Tech Used:** SQL, Power BI
    - **Files:** SQL code
 
-
-Each project folder contains code, changelogs and any other supporting docs where applicable.
-
 ---
 View my **full portfolio and insights on [Notion](https://gray-diascia-2f7.notion.site/Thane-Macdonald-Data-Portfolio-19f009096b56801cbf3ce5c6d4b54608?pvs=4)**
