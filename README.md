@@ -14,7 +14,7 @@ Each folder represents a project, containing cleaned datasets, SQL queries and c
 2. **[Bank Marketing Campaign](./bank-marketing-campaign/README.md)**
    - **Objective:** Improve campaign ROI
    - **Tech Used:** SQL, Power BI
-   - **Files:** SQL code, Changelog
+   - **Files:** SQL code
 
 
 Each project folder contains code, changelogs and any other supporting docs where applicable.
